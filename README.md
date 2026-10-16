@@ -106,3 +106,4 @@ labelme fish_annotations
 - 本项目基于 Meta 的 [SAM3](https://github.com/facebookresearch/sam3) 开发，模型相关代码与配置遵循原项目许可证
 - 仓库不包含模型权重与任何鱼类图像数据；测试图片请使用自有或已获授权的数据
 - 自动标注结果建议经人工复核后再用于科研或生产
+- 打开main.py 修改路径到你要划分部位的图片路径，即可使用
